@@ -1,4 +1,4 @@
-#include "Color.h"
+#include "../include/Color.h"
 #include <algorithm>
 
 using namespace std;
